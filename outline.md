@@ -10,7 +10,7 @@ Jobs:
     - experience
     - qualification
     - gander
-    # features #
+
     - apply job
     - post job
 Blog:
@@ -20,10 +20,10 @@ Blog:
     - category
     - tags
     - author
-    # features #
+
     - search
     - comment
-    - Recent Post
+    - Recent Post    
 Contact:
 
 Home:
